@@ -30,11 +30,11 @@ public class MainActivity extends AppCompatActivity {
     private JSONObject Host;
 
     // Merchant parameters
-    private String pMerchantID        = "885000000601";
-    private String pDeveloperID       = "000601G001";
-    private String pDeviceID          = "88500000060101";
-    private String pUserID            = "TA5426108";
-    private String pPassword          = "Exadigm@2862";
+    private String pMerchantID        = "";
+    private String pDeveloperID       = "";
+    private String pDeviceID          = "";
+    private String pUserID            = "";
+    private String pPassword          = "";
     private String pTransactionKey    = "";
     private String pSaleType;
 
